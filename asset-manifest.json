@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CalProject/static/css/main.4f6083ba.css",
+    "main.js": "/CalProject/static/js/main.347a590f.js",
+    "static/js/453.aa824802.chunk.js": "/CalProject/static/js/453.aa824802.chunk.js",
+    "index.html": "/CalProject/index.html",
+    "main.4f6083ba.css.map": "/CalProject/static/css/main.4f6083ba.css.map",
+    "main.347a590f.js.map": "/CalProject/static/js/main.347a590f.js.map",
+    "453.aa824802.chunk.js.map": "/CalProject/static/js/453.aa824802.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f6083ba.css",
+    "static/js/main.347a590f.js"
+  ]
+}
